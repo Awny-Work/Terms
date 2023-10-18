@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  text-align: justify;
+  direction: rtl;
+  font-family: "Noto Naskh Arabic", serif;
+  font-family: "Work Sans", sans-serif;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h3 {
+  margin-bottom: 10px;
+}
+p {
+  margin-bottom: 20px;
+  margin-top: 0;
+  line-height: 1.2;
+  font-size: 20px;
+}
+
+.container {
+  padding: 10px;
+}
+
+.content {
+  margin-bottom: 50px;
+}
+
+ul {
+  padding: 0 20px;
+  margin-bottom: 20px;
+}
+ul li {
+  margin: 10px 0;
+  font-size: 18px;
+}
